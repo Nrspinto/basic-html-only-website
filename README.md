@@ -25,25 +25,26 @@ The project is structured as follows:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nrspinto/basic-html-only-website.git
-2. Ouvrez le fichier index.html dans votre navigateur pour voir le portfolio.
+2. Open the ``index.html`` file in your browser to view the portfolio.
 
-3. Pour modifier le contenu, éditez le fichier index.html avec votre éditeur de texte préféré.
+3. To modify the content, edit the html file with your preferred text editor.
+
 ---
-## Exigences
-- Aucune exigence particulière n'est nécessaire pour exécuter ce projet, car il est entièrement en HTML.
+## Requirements
+- No specific requirements are needed to run this project, as it is entirely in HTML.
 ---
-## Contribuer
-Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, veuillez suivre les étapes suivantes :
+## Contributing
+Contributions are welcome! If you wish to improve this project, please follow these steps:
 
-1. Forkez le projet.
+1. Fork the project.
 
-2. Créez une branche pour votre fonctionnalité (``git checkout -b feature/AmazingFeature``).
+2. Create a branch for your feature (``git checkout -b feature/AmazingFeature``).
 
-3. Committez vos changements (``git commit -m 'Add some AmazingFeature'``).
+3. Commit your changes (``git commit -m 'Add some AmazingFeature'``).
 
-4. Pushez vers la branche (``git push origin feature/AmazingFeature``).
+4. Push to the branch (``git push origin feature/AmazingFeature``).
 
-5. Ouvrez un Pull Request.
+5. Open a Pull Request.
 ---
 ## Contact
-Pour toute question ou suggestion, veuillez utiliser le formulaire de contact sur le site ou ouvrir une issue sur GitHub.
+For any questions or suggestions, please use the contact form on the site or open an issue on GitHub.
