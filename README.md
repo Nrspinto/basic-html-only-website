@@ -38,11 +38,11 @@ Contributions are welcome! If you wish to improve this project, please follow th
 
 1. Fork the project.
 
-2. Create a branch for your feature (``git checkout -b feature/AmazingFeature``).
+2. Create a branch for your feature (``git checkout -b 'banch name'``).
 
 3. Commit your changes (``git commit -m 'Add some AmazingFeature'``).
 
-4. Push to the branch (``git push origin feature/AmazingFeature``).
+4. Push to the branch (``git push origin 'branch name'``).
 
 5. Open a Pull Request.
 ---
