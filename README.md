@@ -1,6 +1,6 @@
 # Portfolio HTML
 
-This project is a simple portfolio created solely using HTML. It showcases information about a frontend developer, including projects, professional experience, education, courses taken, open-source contributions, teacher reviews, and a contact page.
+This project is a simple portfolio created solely using HTML. [You can access the source here](https://roadmap.sh/projects/basic-html-website). It showcases information about a frontend developer, including projects, professional experience, education, courses taken, open-source contributions, teacher reviews, and a contact page.
 
 ---
 
