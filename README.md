@@ -27,7 +27,7 @@ The project is structured as follows:
    git clone https://github.com/Nrspinto/basic-html-only-website.git
 2. Open the ``index.html`` file in your browser to view the portfolio.
 
-3. To modify the content, edit the html file with your preferred text editor.
+3. To modify the content, edit the html files with your preferred text editor.
 
 ---
 ## Requirements
